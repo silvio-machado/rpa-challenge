@@ -1,0 +1,2 @@
+Unable to obtain driver using Selenium Manager: Selenium Manager failed for: /home/silvio/.robocorp/holotree/8960b6a_b1f3c24_1c0bc041/lib/python3.9/site-packages/selenium/webdriver/common/linux/selenium-manager --browser chrome --output json.
+error sending request for url (https://chromedriver.storage.googleapis.com/LATEST_RELEASE_110): error trying to connect: dns error: failed to lookup address information: Try again
